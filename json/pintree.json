@@ -571,6 +571,13 @@
           },
           {
             "type": "link",
+            "addDate": 1722838326864,
+            "title": "MoviePilot",
+            "icon": "https://logo.clearbit.com/mp.imoook.com",
+            "url": "https://mp.imoook.com:18888/#/dashboard"
+          },
+          {
+            "type": "link",
             "addDate": 1678868779372,
             "title": "TinyMediaManager",
             "icon": "https://logo.clearbit.com/tmm.imoook.com",
@@ -638,6 +645,13 @@
             "title": "IYUUPlus开发版",
             "icon": "https://logo.clearbit.com/iyuu.imoook.com",
             "url": "https://iyuu.imoook.com:18888/app/admin"
+          },
+          {
+            "type": "link",
+            "addDate": 1722494259023,
+            "title": "MDCx",
+            "icon": "https://logo.clearbit.com/mdcx.imoook.com",
+            "url": "https://mdcx.imoook.com:18888/"
           }
         ]
       },
@@ -1037,6 +1051,20 @@
             "title": "amilys/embyserver - Docker Image | Docker Hub",
             "icon": "https://logo.clearbit.com/registry.hub.docker.com",
             "url": "https://registry.hub.docker.com/r/amilys/embyserver/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721792885710,
+            "title": "❌ 俾条蕉你食… ❌",
+            "icon": "https://logo.clearbit.com/yang-1989.eu.org",
+            "url": "https://yang-1989.eu.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723189132925,
+            "title": "Home | Zapier",
+            "icon": "https://logo.clearbit.com/zapier.com",
+            "url": "https://zapier.com/app/home"
           }
         ]
       },
@@ -1145,10 +1173,10 @@
           },
           {
             "type": "link",
-            "addDate": 1709276959883,
-            "title": "什么值得看 - 现在正在发生什么",
-            "icon": "https://logo.clearbit.com/smzdk.top",
-            "url": "https://smzdk.top/#/"
+            "addDate": 1721360584464,
+            "title": "工作簿1",
+            "icon": "https://logo.clearbit.com/bbs.nga.cn",
+            "url": "https://bbs.nga.cn/thread.php?fid=-7955747"
           }
         ]
       },
@@ -1233,6 +1261,13 @@
             "title": "蟹黄堡 :: 首页 - Powered by NexusPHP",
             "icon": "https://logo.clearbit.com/crabpt.vip",
             "url": "https://crabpt.vip/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722232407954,
+            "title": "BTSCHOOL :: 首页 比特校园PT小乐园 - Powered by NexusPHP",
+            "icon": "https://logo.clearbit.com/pt.btschool.club",
+            "url": "https://pt.btschool.club/index.php"
           },
           {
             "type": "link",
